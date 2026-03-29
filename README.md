@@ -22,9 +22,11 @@ I'm passionate about building innovative solutions, solving challenging problems
 
 Check out my work and projects on my portfolio website:  
 👉 [ankitsharma.dev](https://profile-blond-delta.vercel.app/)
-MyBook
+
+MyBook:
 👉 [MyBook.com](https://mybook-1-exn0.onrender.com)
-Haatix(Ecommerce)
+
+Haatix(Ecommerce):
 👉 [Haatix.com](https://haatix.onrender.com/)
 
 ## 📫 Let's Connect!
